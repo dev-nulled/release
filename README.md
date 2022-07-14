@@ -31,6 +31,7 @@ and are split into the following categories:
    ones should not be added. Multi-stage tests using steps from the shared
    registry should be used instead.
 
+
 ## Cluster and Service Configuration Manifests
 
 ### Core Services and Configuration
